@@ -882,7 +882,7 @@ header .wrapper .rightSec .searchBox form input::placeholder {
 }
 
 header .wrapper .rightSec .searchBox form input[type='submit'] {
-  background: url(./images/icons/left-arrow.svg) 10px center;
+  background: url(./images/left-arrow.svg) 10px center;
   background-size: 50px;
   background-repeat: no-repeat;
   height: 100%;
